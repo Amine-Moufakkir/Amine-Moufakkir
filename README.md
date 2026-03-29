@@ -1,13 +1,13 @@
 <h2>Hey 👋, I'm <a href="https://github.com/YOUR_USERNAME">Amine</a></h2>
 <p>I'm currently a software engineering student at <strong>École Nationale des Sciences Appliquées</strong> based in 🇲🇦 Khouribga. I am working on a SaaS full AI agent tutorial, learning System Design, and preparing for internship interviews.</p>
-<p><a href="mailto:YOUR_EMAIL@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&labelColor=EA4335&logo=Gmail&logoColor=white" alt="Gmail Badge"></a> <a href="YOUR_LINKEDIN_LINK"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a></p></p>
+<p><a href="mailto:mofakirmino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&labelColor=EA4335&logo=Gmail&logoColor=white" alt="Gmail Badge"></a> <a href="https://www.linkedin.com/in/amine-moufakkir"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&labelColor=0077B5&logo=LinkedIn&logoColor=white" alt="LinkedIn Badge"></a></p></p>
 <p>⚽ Don't forget to play on the wing ⚽</p>
 <img align="right" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjB2ajM0Zmc4czEydmFnaGhlZXJ1NTZqNW1zYzAzYnUzankxd29qdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/gVlgj80ZLp9yo/giphy.gif" />
 <h2>⚡️ A Few Quick Facts</h2>
 <ul>
 <li>🔭 I’m currently working on a <strong>SaaS full AI agent tutorial</strong>.</li>
 <li>🧐 Learning about <strong>System Design</strong> and <strong>Cloud Infrastructure</strong>.</li>
-<li>👨‍💻 Most of my projects are available on <a href="https://github.com/YOUR_USERNAME">Github</a>.</li>
+<li>👨‍💻 Most of my projects are available on <a href="https://github.com/Amine-Moufakkir">Github</a>.</li>
 <li>📝 I'm currently reading the <strong>System Design Interview</strong> book.</li>
 <li>💬 Ping me about <strong>Java, Spring, and Backend Development</strong>.</li>
 <li>📙 Check out my <a href="YOUR_RESUME_LINK">resume</a>.</li>
@@ -46,9 +46,9 @@
 </p>
 
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&count_private=true" alt="GitHub Stats" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=2" alt="Top Languages" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Amine-Moufakkir&show_icons=true&count_private=true" alt="GitHub Stats" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amine-Moufakkir&layout=compact&langs_count=2" alt="Top Languages" />
 </p>
 <br clear="both">
 
-<p><a href="https://hits.dwyl.com/YOUR_USERNAME/YOUR_USERNAME"><img src="https://hits.dwyl.com/YOUR_USERNAME/YOUR_USERNAME.svg?style=flat-square" alt="HitCount"></a></p>
+<p><a href="https://hits.dwyl.com/Amine-Moufakkir/Amine-Moufakkir"><img src="https://hits.dwyl.com/Amine-Moufakkir/Amine-Moufakkir.svg?style=flat-square" alt="HitCount"></a></p>
