@@ -10,7 +10,7 @@
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Amine-Moufakkir">Github</a>.</li>
 <li>📝 I'm currently reading the <strong>System Design Interview</strong> book.</li>
 <li>💬 Ping me about <strong>Java, Spring, and Backend Development</strong>.</li>
-<li>📙 Check out my <a href="YOUR_RESUME_LINK">resume</a>.</li>
+<li>📙 Check out my <a href="https://drive.google.com/file/d/1UaZpA9kprJ6tylrLLg8cQQ9OPT77T-RZ/view?usp=drive_link">resume</a>.</li>
 <li>🎉 Fun Fact: I play football as a winger.</li>
 </ul>
 <h2>✒️ Recent Articles & Reading</h2>
